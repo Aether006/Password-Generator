@@ -15,42 +15,6 @@ This is a secure password generator web app built with React and Tailwind CSS. I
 - **Dark Mode**: Toggle between light and dark themes.
 - **Vaporwave Aesthetic**: Fluid gradient background and neon text effects.
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/password-generator.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd password-generator
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-
-   ```bash
-   npm run dev
-   ```
-
-5. Open your browser and visit `http://localhost:5173` to view the app.
-
-## Deployment
-
-The app is ready to be deployed to platforms like Netlify or Vercel. Simply build the app using:
-
-```bash
-npm run build
-```
-
 ## License
 
 This project is licensed under the MIT License.
